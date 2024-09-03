@@ -10,5 +10,5 @@ from-root
 google-cloud-storage
 fastapi==0.78.0
 uvicorn==0.18.3
-Jinnja2==3.1.1
+Jinja2==3.1.2
 -e . #to install local pages 
